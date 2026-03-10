@@ -3,6 +3,15 @@ A LINDDUN-CWE privacy healthare-related vulnerability dataset
 ## Summary
 
 This document presents a comprehensive narrative of applying the LINDDUN privacy threat modeling methodology to a Healthcare Information System (HIS). It covers system modeling with Data Flow Diagrams (DFDs), iterative threat identification across seven LINDDUN categories, and threat mapping to Common Weakness Enumeration (CWE) standards. All key formulas are explicitly shown, and the primary mapping matrix (Table 1) is included. For deeper scenarios, refer to the accompanying files: **LINDDUN\_Threat Trees** (detailing use and misuse-case trees) and **UseMisuse Cases vs CWE Category** (mapping scenarios to CWE categories).
+## Dataset Access
+
+The full dataset is hosted on Zenodo due to its large size.
+
+DOI:
+https://doi.org/10.5281/zenodo.18937799
+
+Formats:
+- Parquet (~16GB)
 
 ## 1. System Modeling
 
