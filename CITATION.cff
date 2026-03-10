@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "C3-VULMAP: A Large-Scale Dataset for Software Vulnerability Detection"
+message: "If you use this dataset, please cite it as below."
+type: dataset
+authors:
+  - family-names: Ameh
+    given-names: Jude Enenche
+version: 1.0
+doi: 10.5281/zenodo.18937799
+date-released: 2025
+url: https://github.com/juxam/C3-VULMAP
